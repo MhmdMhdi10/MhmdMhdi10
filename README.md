@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi Farahani</h1>
 <h3 align="center">A passionate Backend Developer from Tehran, Iran</h3>
