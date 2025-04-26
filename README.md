@@ -37,18 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdmhdi&show_icons=true&theme=radical" alt="mhmdmhdi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdmhdi&theme=radical" alt="mhmdmhdi" />
-</p>
-
----
-
 ### 🌐 Connect with me:
 
 <p align="left">
