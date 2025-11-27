@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi Farahani</h1>
-<h3 align="center">A passionate Backend Developer from Tehran, Iran</h3>
+<h3 align="center">A passionate FullStack Developer from London, UK</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhmdmhdi&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdmhdi" />
@@ -8,12 +8,10 @@
 
 ---
 
-- 🎓 **Student** at **Iran University of Science and Technology (IUST)**  
-- 🧑‍💻 **Backend Developer** with 3+ years of experience  
-- 🏢 Former **Backend Developer Intern** at [Ettesal.co](https://ettesal.co)  
-- 🛠️ Technologies: **Python, Django, DRF, FastAPI, SQLAlchemy, Docker, Celery**
+- 🧑‍💻 **Backend Developer** with 7+ years of experience  
+- 🛠️ Technologies: **Python, Django, DRF, FastAPI, SQLAlchemy, Docker, Celery, Nuxt.js, Next.js, React.js, javascript**
 - 🌱 Currently learning: **Advanced Software Architecture**, **DevOps Tools**
-- 📫 How to reach me: [mohammadmahdif82@gmail.com](mailto:mohammadmahdif82@gmail.com)
+- 📫 How to reach me: [mohammadmahdifarahani03@gmail.com](mohammadmahdifarahani03@gmail.com)
 
 ---
 
