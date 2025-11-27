@@ -33,11 +33,3 @@
 </p>
 
 ---
-
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="mailto:mohammadmahdif82@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" /></a>
-</p>
-
----
