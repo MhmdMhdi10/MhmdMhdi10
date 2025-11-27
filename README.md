@@ -8,7 +8,7 @@
 
 ---
 
-- 🧑‍💻 **Backend Developer** with 7+ years of experience  
+- 🧑‍💻 **FullStack Developer** with 7+ years of experience  
 - 🛠️ Technologies: **Python, Django, DRF, FastAPI, SQLAlchemy, Docker, Celery, Nuxt.js, Next.js, React.js, javascript**
 - 🌱 Currently learning: **Advanced Software Architecture**, **DevOps Tools**
 - 📫 How to reach me: [mohammadmahdifarahani03@gmail.com](mohammadmahdifarahani03@gmail.com)
